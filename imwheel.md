@@ -1,0 +1,39 @@
+# imwheel (solve slow scrolling)
+
+[新装的20.04，鼠标后退键没有响应应该怎么设置？ - Ubuntu中文论坛](https://forum.ubuntu.org.cn/viewtopic.php?t=491190)
+
+```
+
+`sudo apt install imwheel`
+
+`sudo gedit ~/.imwheelrc`
+
+```bash
+".*"
+
+None,      Up,  Button4, 5
+
+None,      Down, Button5, 5
+
+Control_L, Up,  Control_L|Button4
+
+Control_L, Down, Control_L|Button5
+
+Shift_L,  Up,  Shift_L|Button4
+
+Shift_L,  Down, Shift_L|Button5
+
+None,  Thumb1,  Alt_L|Left
+
+None,  Thumb2,  Alt_L|Right
+```
+
+### **Run IMWheel on startup using a shell script**
+
+Alternatively, you can create a `startup.sh` script in `/etc/profile.d/`:
+
+```
+#!/bin/sh
+
+imwheel
+```
