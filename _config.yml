@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Haochen Hu 
-description: B.S. of Informatics, Student at University of Washington
+description: B.S. in Informatics: Data Science\nStudent at University of Washington
 show_downloads: false
