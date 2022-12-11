@@ -3,5 +3,14 @@
 
 @import "{{ site.theme }}";
 .site-footer-credits {
-    display: none;
+  display: none;
+}
+
+.page-header {
+  backdrop-filter: blur(10px);
+  background: linear-gradient(rgba(255, 8, 0, 0.966) rgba(0, 0, 0, 0.5));
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
 }
