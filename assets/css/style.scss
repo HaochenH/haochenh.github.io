@@ -12,9 +12,10 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  background-size: 400% 400%;
+  
+  background: linear-gradient(-45deg, rgba(238, 119, 82, 0.3), rgba(231, 60, 126, 0.3), rgba(35, 166, 213, 0.3), rgba(35, 213, 171, 0.3));
+  // background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  // background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
 }
@@ -36,3 +37,5 @@
     background-position: 0% 50%;
   }
 }
+
+// rgba(238, 119, 82, 1), rgba(231, 60, 126, 1), rgba(35, 166, 213, 1), rgba(35, 213, 171, 1)
