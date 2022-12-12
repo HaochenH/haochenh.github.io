@@ -1,8 +1,7 @@
 ## Education
 I am currently a student at the University of Washington, where I am pursuing a Bachelor of Science in Informatics: Data Science. I expect to graduate in June 2023. 
 
-My relevant coursework includes Advanced Methods in Data Science, Databases and Data Modeling, Client-Side Development, Interactive Information Visualization, Information Ethics and Society, Elements Of Statistical Methods, and Interactive Information Visualization.	<details><summary>More relevant coursework</summary>
-Applied Linear Algebra And Numerical Analysis, Matrix Algebra With Applications</details>
+My relevant coursework includes Advanced Methods in Data Science, Databases and Data Modeling, Client-Side Development, Interactive Information Visualization, Information Ethics and Society, Elements Of Statistical Methods, and Interactive Information Visualization.	
 
 In addition to my studies at the University of Washington, I have also attended summer session and took the Mathematics of the Universe course at Duke University in Durham, NC.
 
