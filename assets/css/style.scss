@@ -7,10 +7,17 @@
 }
 
 .page-header {
-  background: linear-gradient(rgba(125, 37, 34, 0.966) rgba(0, 0, 0, 0.5));
+  // background: linear-gradient(rgba(125, 37, 34, 0.966) rgba(0, 0, 0, 0.5));
   background-image: url(../images/city-min.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.page-header .page-title {
+  color: #fff;
+}
+
+#content h1, h2, h3, h4, h5, h6 {
   color: rgb(86, 17, 17);
 }
