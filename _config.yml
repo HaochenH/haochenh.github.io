@@ -3,11 +3,11 @@
 # - jekyll-remote-theme
 theme: jekyll-theme-cayman
 title: Haochen Hu 
-description: Haochen Hu, B.S. in Informatics, University of Washington
+description: B.S. in Informatics, University of Washington
 show_downloads: false
 email: haochh3@uw.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "haochenhu.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://haochenhu.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  haochenh
 
 
