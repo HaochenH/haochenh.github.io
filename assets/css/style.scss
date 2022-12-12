@@ -19,22 +19,3 @@
   background-color: rgba(162, 162, 162, 0.2);
   border-color: rgba(255,255,255,0.2);
 }
-
-.page-header-animated {
-  background: linear-gradient(-45deg, rgba(238, 119, 82, 0.2), rgba(231, 60, 126, 0.2), rgba(35, 166, 213, 0.2), rgba(35, 213, 171, 0.2)), ;
-  animation: gradient 10s ease infinite;
-}
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-// rgba(238, 119, 82, 1), rgba(231, 60, 126, 1), rgba(35, 166, 213, 1), rgba(35, 213, 171, 1)
