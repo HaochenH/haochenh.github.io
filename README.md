@@ -1,1 +1,1 @@
-## [<button>CV</button>](files/cv.pdf) [<kbd>ABOUT</kbd>](files/cv.pdf)
+<font size='5'>[<button>CV</button>](files/cv.pdf) [<button>ABOUT</button>](files/cv.pdf)</font>
