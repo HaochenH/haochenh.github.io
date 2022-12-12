@@ -369,7 +369,7 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { display: none; }
 
-.page-header { background: linear-gradient(rgba(125, 37, 34, 0.966) rgba(0, 0, 0, 0.5)); background-image: asset_url("lp-min.jpeg"); }
+.page-header { background: linear-gradient(rgba(125, 37, 34, 0.966) rgba(0, 0, 0, 0.5)); background-image: url(../images/city-min.jpg); }
 
 h1, h2, h3, h4, h5, h6 { color: #561111; }
 
