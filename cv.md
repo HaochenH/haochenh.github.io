@@ -8,18 +8,18 @@ In addition to my studies at the University of Washington, I have also attended 
 ## Skills
 In addition to my education, I also have a range of skills that are relevant to my interests in data science, machine learning, and web development. Some of my key skills include: 
 
-![Python3](https://img.shields.io/badge/Python-blueviolet) 
-![R](https://img.shields.io/badge/R-blue)
-![SQL](https://img.shields.io/badge/SQL-red) 
-![HTML](https://img.shields.io/badge/HTML-yellowgreen) 
-![CSS](https://img.shields.io/badge/CSS-yellowgreen) 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellowgreen) 
-
 **Data Science and Analytics:** I have experience working with data science and analytics tools and techniques, and am proficient in using them to extract insights from data and build predictive models.
 
 **Machine Learning:** I have a strong understanding of machine learning concepts and algorithms with Python, and have experience applying these techniques to a variety of real-world problems, including spam prediction, and image classification.
 
 **Web Development:** I am proficient in a range of web development technologies, including HTML, CSS, JavaScript, and have experience building web applications and websites. I built a web application, Help Beat Hunger, for my final project in the Client-Side Development course, which allowed me to apply my knowledge of web development to a real-world problem.
+
+![Python3](https://img.shields.io/badge/Python-blueviolet) 
+![R](https://img.shields.io/badge/R-blue)
+![SQL](https://img.shields.io/badge/SQL-red) 
+![HTML](https://img.shields.io/badge/HTML-olive) 
+![CSS](https://img.shields.io/badge/CSS-yellowgreen) 
+![JavaScript](https://img.shields.io/badge/JavaScript-cadetblue) 
 
 ## Experience
 I am tech-savvy, with a strong interest in staying up-to-date with the latest developments in the field. I am a hands-on learner, with a proven ability to quickly acquire new skills and apply them in a practical setting. I am also open-minded, and willing to learn, which allows me to approach problems from multiple angles and find innovative solutions. 
