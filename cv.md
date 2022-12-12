@@ -6,7 +6,14 @@ My relevant coursework includes Advanced Methods in Data Science, Databases and 
 In addition to my studies at the University of Washington, I have also attended summer session and took the Mathematics of the Universe course at Duke University in Durham, NC.
 
 ## Skills
-In addition to my education, I also have a range of skills that are relevant to my interests in data science, machine learning, and web development. Some of my key skills include:
+In addition to my education, I also have a range of skills that are relevant to my interests in data science, machine learning, and web development. Some of my key skills include: 
+
+![Python3](https://img.shields.io/badge/Python-blueviolet) 
+![R](https://img.shields.io/badge/R-blue)
+![SQL](https://img.shields.io/badge/SQL-red) 
+![HTML](https://img.shields.io/badge/HTML-yellowgreen) 
+![CSS](https://img.shields.io/badge/CSS-yellowgreen) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellowgreen) 
 
 **Data Science and Analytics:** I have experience working with data science and analytics tools and techniques, and am proficient in using them to extract insights from data and build predictive models.
 
