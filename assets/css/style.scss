@@ -14,9 +14,7 @@
   background-repeat: no-repeat;
 
   // background: linear-gradient(-45deg, rgba(238, 119, 82, 0.3), rgba(231, 60, 126, 0.3), rgba(35, 166, 213, 0.3), rgba(35, 213, 171, 0.3));
-  background: linear-gradient(-45deg, rgba(238, 119, 82, 0.3), rgba(231, 60, 126, 0.3), rgba(35, 166, 213, 0.3), rgba(35, 213, 171, 0.3)), url(../images/city-min-dark.webp);
-  // background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  // background-size: 400% 400%;
+  background: url(../images/city-min-dark.webp), linear-gradient(-45deg, rgba(238, 119, 82, 0.3), rgba(231, 60, 126, 0.3), rgba(35, 166, 213, 0.3), rgba(35, 213, 171, 0.3));
   animation: gradient 10s ease infinite;
   // height: 100vh;
 }
