@@ -8,10 +8,11 @@
 
 .page-header {
   background-color: rgba(133, 133, 133, 0.5);
-  background-image: url(../images/city-min-dark.webp);
+  // background-image: url(../images/city-min-dark.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background: linear-gradient(-45deg, rgba(238,119,82,0.2), rgba(231,60,126,0.2), rgba(35,166,213,0.2), rgba(35,213,171,0.2)), url(../images/city-min-dark.webp);
 }
 
 .btn {
