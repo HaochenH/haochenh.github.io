@@ -1,3 +1,4 @@
+# CV
 ## Education
 I am currently a student at the University of Washington, where I am pursuing a Bachelor of Science in Informatics: Data Science. I expect to graduate in June 2023. 
 
