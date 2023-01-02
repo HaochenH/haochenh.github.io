@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: haochenhu.me
 url: "https://haochenhu.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  haochenh
-
+google_analytics: G-EDVZMVEMEP
 
 # Welcome to Jekyll!
 #
