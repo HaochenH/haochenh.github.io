@@ -1,3 +1,4 @@
+# Ruby Setup
 sudo apt-get install ruby-full build-essential zlib1g-dev 
 
 echo '# Install Ruby Gems to ~/gems' >> ~/.zshrc
