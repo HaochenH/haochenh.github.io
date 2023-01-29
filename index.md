@@ -5,6 +5,6 @@ I have gained experience working with a variety of data science and machine lear
 
 I am excited to continue learning and growing in these fields, and am eager to apply my skills and knowledge to real-world problems. I am confident that my passion for technology and my dedication to continuous learning will enable me to make a valuable contribution to any team or organization.
 
-### Links
+## Links
 
 [DAfinity / dService](dService)
