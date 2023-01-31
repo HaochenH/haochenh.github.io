@@ -14,12 +14,16 @@ In addition to my education, I also have a range of skills that are relevant to 
 
 **Web Development:** I am proficient in a range of web development technologies, including HTML, CSS, JavaScript, and have experience building web applications and websites. I built a web application, Help Beat Hunger, for my final project in the Client-Side Development course, which allowed me to apply my knowledge of web development to a real-world problem.
 
+**System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems. 
+
 ![Python3](https://img.shields.io/badge/Python-blueviolet) 
 ![R](https://img.shields.io/badge/R-blue)
 ![SQL](https://img.shields.io/badge/SQL-red) 
 ![HTML](https://img.shields.io/badge/HTML-olive) 
 ![CSS](https://img.shields.io/badge/CSS-yellowgreen) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-cadetblue) 
+![Linux](https://img.shields.io/badge/Linux-orange)
+![Shell](https://img.shields.io/badge/Shell-lightgrey)
 
 ## Experience
 I am tech-savvy, with a strong interest in staying up-to-date with the latest developments in the field. I am a hands-on learner, with a proven ability to quickly acquire new skills and apply them in a practical setting. I am also open-minded, and willing to learn, which allows me to approach problems from multiple angles and find innovative solutions. 
