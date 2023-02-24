@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About Me
 My name is Haochen Hu and I am a student at the University of Washington's Information School. I am currently majoring in informatics with a focus on data science. My coursework has allowed me to learn in data science, machine learning, data modeling, UX design, and web development, as well as piqued my interest in system operation and maintenance. These fields have allowed me to combine my passion for informtaion technology with my love of problem-solving and design, and have given me the opportunity to explore a wide range of exciting and challenging projects.
 

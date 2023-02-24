@@ -16,19 +16,14 @@
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
       <h1 class="project-name">Haochen Hu</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <div class="project-social-links">
-        <a class="btn btn-primary" href="/">About</a>
-        <a class="btn btn-primary" href="/cv">CV</a>
-        <a class="btn btn-primary" href="mailto:haochh3@uw.edu">Contact Me</a>
-        <a class="btn btn-primary" href="https://github.com/HaochenH">GitHub</a>
-      </div>
       <!-- {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %} -->
-      {% if site.show_downloads %}
+      {% include navigation-bar.html %}
+      <!-- {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      {% endif %} -->
     </header>
 
     <main id="content" class="main-content animate__animated animate__fadeIn" role="main">
