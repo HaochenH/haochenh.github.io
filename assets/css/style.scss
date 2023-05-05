@@ -17,9 +17,11 @@
 }
 
 .btn {
-  color: rgba(255,255,255,0.9);
-  background-color: rgba(122, 122, 122, 0.2);
-  border-color: rgba(255,255,255,0.2);
+  color: rgb(255, 255, 255);
+  background-color: rgba(80, 80, 80, 0.2);
+  border-color: rgba(255, 209, 209, 0.2);
+  // box-shadow: 0 0 0 0.2rem rgba(141, 81, 81, 0.2);
+  font-size: 1rem;
 }
 
 body {

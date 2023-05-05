@@ -326,7 +326,7 @@ a:hover { text-decoration: underline; }
 
 .page-header { background-color: rgba(133, 133, 133, 0.5); background-size: cover; background-position: center; background-repeat: no-repeat; background-image: linear-gradient(rgba(38, 24, 19, 0.617), rgba(44, 20, 23, 0.68)), url(../images/photo-1605876516612-a04e21021ead.webp); }
 
-.btn { color: rgba(255, 255, 255, 0.9); background-color: rgba(122, 122, 122, 0.2); border-color: rgba(255, 255, 255, 0.2); }
+.btn { color: white; background-color: rgba(80, 80, 80, 0.2); border-color: rgba(255, 209, 209, 0.2); font-size: 1rem; }
 
 body { background-color: rgba(0, 0, 0, 0.919); color: white; }
 
