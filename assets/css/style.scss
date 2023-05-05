@@ -12,11 +12,49 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: linear-gradient(-45deg, rgba(238,119,82,0.15), rgba(231,60,126,0.15), rgba(35,166,213,0.15), rgba(35,213,171,0.15)), url(../images/city-min-dark.jpeg);
+  // background-image: linear-gradient(-45deg, rgba(238,119,82,0.15), rgba(231,60,126,0.15), rgba(35,166,213,0.15), rgba(35,213,171,0.15)), url(../images/city-min-dark.jpeg);
+  background-image: linear-gradient(rgba(38, 24, 19, 0.617), rgba(44, 20, 23, 0.68)), url(../images/photo-1605876516612-a04e21021ead.webp);
 }
 
 .btn {
   color: rgba(255,255,255,0.9);
   background-color: rgba(122, 122, 122, 0.2);
   border-color: rgba(255,255,255,0.2);
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.919);
+  color: white;
+}
+
+#content {
+  color:rgb(41, 41, 41)
+}
+
+p, li {
+  color:rgb(241, 241, 241)
+}
+
+#content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+  color:rgb(206, 126, 137)
+}
+
+#content h1 {
+  font-size: 2.5rem;
+}
+
+#content h2 {
+  font-size: 2rem;
+}
+
+#content h3 {
+  font-size: 1.75rem;
+}
+
+#content a {
+  color:rgb(171, 129, 135)
+}
+
+footer {
+  color: rgb(187, 187, 187);
 }

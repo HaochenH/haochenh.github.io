@@ -16,14 +16,14 @@ In addition to my education, I also have a range of skills that are relevant to 
 
 **System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems. 
 
-![Python3](https://img.shields.io/badge/Python-blueviolet) 
-![R](https://img.shields.io/badge/R-blue)
-![SQL](https://img.shields.io/badge/SQL-red) 
-![HTML](https://img.shields.io/badge/HTML-olive) 
-![CSS](https://img.shields.io/badge/CSS-yellowgreen) 
-![JavaScript](https://img.shields.io/badge/JavaScript-cadetblue) 
-![Linux](https://img.shields.io/badge/Linux-orange)
-![Shell](https://img.shields.io/badge/Shell-lightgrey)
+## Technical Skills:
+
+- Proficient in Python for data analysis, machine learning, and automation.
+- Familiarity with R for statistical analysis and visualization.
+- Experience working with SQL databases for data retrieval and manipulation.
+- Knowledge of HTML and CSS for building web applications and web pages.
+- Familiarity with JavaScript for front-end web development.
+- Experience working with Linux operating systems and shell scripting for automation and server management.
 
 ## Experience
 I am tech-savvy, with a strong interest in staying up-to-date with the latest developments in the field. I am a hands-on learner, with a proven ability to quickly acquire new skills and apply them in a practical setting. I am also open-minded, and willing to learn, which allows me to approach problems from multiple angles and find innovative solutions. 
@@ -34,4 +34,4 @@ I also have a personal interest in computer hardware and building computers. I h
 In addition to my technical skills, I am also proficient in several languages, including English, Chinese, and Japanese. This allows me to communicate and work with people from a variety of backgrounds and cultures.
 
 ## Contact
-The best way to reach me is through email at: [haochh3@uw.edu](mailto:haochh3@uw.edu)
+The best way to reach me is through email at: [haochh@yahoo.com](mailto:haochh@yahoo.com)

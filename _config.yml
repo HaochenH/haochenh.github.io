@@ -2,10 +2,10 @@
 # plugins:
 # - jekyll-remote-theme
 theme: jekyll-theme-cayman
-title: Haochen Hu 
+title: Haochen Hu | Portfolio
 description: B.S. in Informatics, University of Washington
 show_downloads: false
-email: haochh3@uw.edu
+email: haochh@yahoo.com
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: haochenhu.me
 url: "https://haochenhu.me" # the base hostname & protocol for your site, e.g. http://example.com
