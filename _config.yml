@@ -12,6 +12,12 @@ url: "https://haochenhu.me" # the base hostname & protocol for your site, e.g. h
 github_username:  haochenh
 google_analytics: G-EDVZMVEMEP
 
+# Language settings
+default_locale: en
+locales:
+  - en
+  - zh
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values

@@ -1,3 +1,5 @@
+#### <a href="/">< About Me  </a>  
+
 ## Education
 I am currently a student at the University of Washington in Seattle, where I am pursuing a Bachelor of Science in Informatics: Data Science. I expect to graduate in June 2023. 
 
@@ -16,7 +18,7 @@ In addition to my education, I also have a range of skills that are relevant to 
 
 **System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems. 
 
-## Technical Skills:
+## Technical Skills
 
 - Proficient in Python for data analysis, machine learning, and automation.
 - Familiarity with R for statistical analysis and visualization.
@@ -33,5 +35,5 @@ I also have a personal interest in computer hardware and building computers. I h
 ## Languages
 In addition to my technical skills, I am also proficient in several languages, including English, Chinese, and Japanese. This allows me to communicate and work with people from a variety of backgrounds and cultures.
 
-## Contact
-The best way to reach me is through email at: [haochh@yahoo.com](mailto:haochh@yahoo.com)
+<br>
+{% include navigation-bar.html %}
