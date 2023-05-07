@@ -17,6 +17,9 @@ In addition to my studies at the University of Washington, I have also attended 
 
 **System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands, such as bash, Shell script, and more. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems. 
 
+<img class="img" id="auto-change-image" alt="images"
+      src="{{ site.baseurl }}/assets/images/slides/photo-1496096265110-f83ad7f96608.png">
+
 ## Interests
 I am tech-savvy, with a strong interest in staying up-to-date with the latest developments in the field. I am a hands-on learner, with a proven ability to quickly acquire new skills and apply them in a practical setting. I am also open-minded, and willing to learn, which allows me to approach problems from multiple angles and find innovative solutions. 
 
