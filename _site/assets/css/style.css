@@ -328,6 +328,7 @@ a:hover { text-decoration: underline; }
 
 .nav { position: fixed; background-color: rgba(27, 27, 27, 0.013); width: 100%; -webkit-backdrop-filter: blur(64px); backdrop-filter: blur(24px); z-index: 9999; }
 
+@media (prefers-color-scheme: dark) { * { -webkit-backdrop-filter: none !important; backdrop-filter: blur(24px) !important; } }
 @media (min-width: 1024px) { #header { height: 400px; }
   #header h1 { margin-top: 80px; } }
 .btn { color: white; background-color: rgba(80, 80, 80, 0.2); border-color: rgba(255, 209, 209, 0.2); font-size: 1rem; }
