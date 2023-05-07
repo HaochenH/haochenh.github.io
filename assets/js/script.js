@@ -24,22 +24,11 @@ function triggerTranslation() {
         translateButton.dispatchEvent(new Event("change"));
     }
 }
-let translated = false;
-window.onload = function () {
-    googleTranslateElementInit();
-    triggerTranslation();
-    setTimeout(function () {
-        triggerTranslation();
-        translated = true;
-    }, 500);
-};
+
 window.addEventListener("load", function () {
-    if (translated) {
-        return;
-    }
     googleTranslateElementInit();
     triggerTranslation();
     setTimeout(function () {
         triggerTranslation();
-    }, 500);
+    });
 });
