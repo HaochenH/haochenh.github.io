@@ -6,11 +6,13 @@ I am currently a student at the University of Washington in Seattle, where I am 
 
 My relevant coursework includes Advanced Methods in Data Science, Databases and Data Modeling, Client-Side Development, Interactive Information Visualization, Information Ethics and Society, Elements Of Statistical Methods, and Interactive Information Visualization.
 
-In addition to my studies at the University of Washington, I have also attended summer session at Duke University, and took the Mathematics of the Universe course.
+In addition to my studies at the University of Washington, I have also attended summer session at Duke University, and took the Mathematics of the Universe course. 
+
+I will be attending Cornell University in August 2023 to pursue a Master's degree in Information Science.
 
 <li>Duke University, The Mathematics of the Universe, Summer 2019</li>
-<li>University of Washington, B.S. in Informatics: Data Science, June 2023</li>
-<li>Cornell University, Information Science, Starting August 2023</li>
+<li>University of Washington, B.S. in Informatics: Data Science , June 2023</li>
+<li>Cornell University, Master of Information Science, Starting August 2023</li>
 
 <img class="img" id="auto-change-image" alt="images"
       src="{{ site.baseurl }}/assets/images/unsplash-uw.jpeg">
