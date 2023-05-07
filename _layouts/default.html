@@ -37,7 +37,7 @@
       <br>
 
       <div id="google_translate_element">
-        <button onclick="triggerTranslation()" class="btn" style="color:rgb(200, 200, 200)">Translate</button>
+        <!-- <button onclick="triggerTranslation()" class="btn" style="color:rgb(200, 200, 200)">Translate</button> -->
         <script type="text/javascript">
           function googleTranslateElementInit() {
             var browserLang = window.navigator.language || window.navigator.userLanguage;
@@ -68,7 +68,7 @@
             triggerTranslation();
             setTimeout(function() {
               triggerTranslation();
-            }, 1500);
+            }, 500);
           });
         </script>
         <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

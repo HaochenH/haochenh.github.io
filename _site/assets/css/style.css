@@ -358,7 +358,7 @@ footer { color: #bbbbbb; }
 
 .nav-link .material-icons { vertical-align: middle; }
 
-select { background-color: #d5d5d5; text-emphasis-color: white; color: white; border: none; border-radius: 4px; padding-bottom: 0; margin: 0; height: 1.8rem; width: 130px; }
+select { background-color: black; text-emphasis-color: white; color: white; border: none; border-radius: 4px; padding-bottom: 0; margin: 0; height: 1.8rem; width: 130px; }
 
 @media (max-width: 768px) { main { margin-left: 1.5vh; margin-right: 1.5vh; }
   #auto-change-image { height: 350px; }
