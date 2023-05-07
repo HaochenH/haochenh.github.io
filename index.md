@@ -9,7 +9,7 @@ I am excited to continue learning and growing in these fields, and am eager to a
 
 <a href="/cv">
 <i class="material-icons notranslate">contact_page</i> 
-Curriculum Vitae > 
+View My Curriculum Vitae > 
 </a> 
 
 <img class="img" id="auto-change-image" alt="images"

@@ -27,8 +27,8 @@ function triggerTranslation() {
 
 window.addEventListener("load", function () {
     googleTranslateElementInit();
-    triggerTranslation();
     setTimeout(function () {
         triggerTranslation();
-    }, 500);
+        triggerTranslation();
+    }, 1500);
 });
