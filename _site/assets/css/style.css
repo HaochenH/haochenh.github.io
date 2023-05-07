@@ -326,9 +326,9 @@ a:hover { text-decoration: underline; }
 
 .page-header { background-color: rgba(133, 133, 133, 0.5); background-size: cover; background-position: center; background-repeat: no-repeat; background-image: linear-gradient(rgba(65, 77, 89, 0.617), rgba(55, 65, 73, 0.68)), url(../images/photo-1605876516612-a04e21021ead.webp); }
 
-.nav { position: fixed; background-color: rgba(27, 27, 27, 0.013); width: 100%; -webkit-backdrop-filter: blur(64px); backdrop-filter: blur(24px); z-index: 9999; }
+.nav { position: fixed; background-color: rgba(27, 27, 27, 0.295); width: 100%; -webkit-backdrop-filter: blur(64px); backdrop-filter: blur(24px); z-index: 9999; }
 
-@media (prefers-color-scheme: dark) { * { -webkit-backdrop-filter: none !important; backdrop-filter: blur(24px) !important; } }
+@media (prefers-color-scheme: dark) { .nav { background-color: rgba(43, 43, 43, 0.743); } }
 @media (min-width: 1024px) { #header { height: 400px; }
   #header h1 { margin-top: 80px; } }
 .btn { color: white; background-color: rgba(80, 80, 80, 0.2); border-color: rgba(255, 209, 209, 0.2); font-size: 1rem; }
@@ -363,5 +363,5 @@ select { background-color: black; text-emphasis-color: white; color: white; bord
 
 @media (max-width: 768px) { main { margin-left: 1.5vh; margin-right: 1.5vh; }
   #auto-change-image { height: 350px; }
-  header.page-header > h1 { margin-top: 60px; }
+  header.page-header > h1 { margin-top: 80px; }
   #r1 { display: none; } }
