@@ -27,6 +27,10 @@
   </header>
 
   <main id="content" class="main-content animate__animated animate__fadeIn" role="main">
+    <div id="google_translate_element">
+      <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>
+
     {{ content }}
 
     <!-- <footer class="site-footer"> -->
@@ -36,11 +40,6 @@
         {% endif %} -->
       <br>
 
-      <div id="google_translate_element">
-        <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-      </div>
-
-      <br>
       <span class="site-footer-owner notranslate">Copyright © {{ site.time | date: '%Y' }} Haochen Hu. All Rights
         Reserved.</span>
       <br>

@@ -30,5 +30,5 @@ window.addEventListener("load", function () {
     triggerTranslation();
     setTimeout(function () {
         triggerTranslation();
-    }, 1000);
+    }, 500);
 });
