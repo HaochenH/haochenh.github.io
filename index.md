@@ -1,7 +1,7 @@
 
 
 ## About Me
-I am <span class="notranslate">Haochen Hu</span>. I am a student at the University of Washington's Information School. I am currently majoring in informatics with a focus on data science. My coursework has allowed me to learn in data science, machine learning, data modeling, UX design, and web development, as well as system operation and maintenance. These fields have enabled me to leverage my passion for information technology and apply my problem-solving skills, providing me with the opportunity to explore a wide range of challenging projects.
+I am <span class="notranslate">Haochen Hu</span>, a student at the University of Washington's Information School. I am currently majoring in informatics with a focus on data science. My coursework has allowed me to learn in data science, machine learning, data modeling, UX design, and web development, as well as system operation and maintenance. These fields have enabled me to leverage my passion for information technology and apply my problem-solving skills, providing me with the opportunity to explore a wide range of challenging projects.
 
 I have gained experience working with a variety of data science and machine learning techniques, and have developed a strong understanding of ways to extract insights from data and build predictive models. I have also had the opportunity to work on UI/UX design and web development projects, where I have honed my skills in user-centered design and front-end development.
 
@@ -13,7 +13,7 @@ Curriculum Vitae >
 </a> 
 
 <img class="img" id="auto-change-image" alt="images"
-      src="{{ site.baseurl }}/assets/images/slides/photo-1496096265110-f83ad7f96608.png">
+      src="{{ site.baseurl }}/assets/images/unsplash-keyboard.jpg">
 
 ## More Information
 

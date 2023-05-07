@@ -324,7 +324,7 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { display: none; }
 
-.page-header { background-color: rgba(133, 133, 133, 0.5); background-size: cover; background-position: center; background-repeat: no-repeat; background-image: linear-gradient(rgba(65, 77, 89, 0.617), rgba(55, 65, 73, 0.68)), url(../images/photo-1605876516612-a04e21021ead.webp); }
+.page-header { background-color: rgba(133, 133, 133, 0.5); background-size: cover; background-position: center; background-repeat: no-repeat; background-image: linear-gradient(rgba(46, 61, 74, 0.719), rgba(46, 64, 79, 0.751)), url(../images/beach-landscape.jpg); }
 
 .nav { position: fixed; background-color: rgba(27, 27, 27, 0.295); width: 100%; -webkit-backdrop-filter: blur(64px); backdrop-filter: blur(24px); z-index: 9999; }
 
@@ -349,19 +349,19 @@ p, li { color: #f1f1f1; }
 
 #content a { color: #42a4ff; }
 
-.img { box-shadow: 0 0 4px 0 rgba(125, 125, 125, 0.651); background-color: #d7d5c9; width: 100%; border-radius: 24px; }
+.img { box-shadow: 0 0 4px 0 rgba(125, 125, 125, 0.651); background-color: #d7d5c9; width: 100%; border-radius: 24px; height: 450px; }
 
-#auto-change-image { height: 500px; width: 100%; object-fit: cover; margin-top: 1.2rem; }
+#auto-change-image { width: 100%; object-fit: cover; margin-top: 1.8rem; }
 
 footer { color: #bbbbbb; }
 
-.material-icons { vertical-align: middle; margin-bottom: 3px; }
+.material-icons { vertical-align: middle; margin-bottom: 5px; }
 
-.nav-link .material-icons { vertical-align: middle; }
+.nav-link .material-icons { margin-bottom: 3px; }
 
 select { background-color: black; text-emphasis-color: white; color: white; border: none; border-radius: 4px; padding-bottom: 0; margin: 0; height: 1.8rem; width: 130px; }
 
 @media (max-width: 768px) { main { margin-left: 1.5vh; margin-right: 1.5vh; }
-  #auto-change-image { height: 350px; }
+  .img { height: 320px; }
   header.page-header > h1 { margin-top: 80px; }
   #r1 { display: none; } }

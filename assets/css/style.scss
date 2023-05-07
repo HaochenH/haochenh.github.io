@@ -13,7 +13,7 @@
   background-position: center;
   background-repeat: no-repeat;
   // background-image: linear-gradient(-45deg, rgba(238,119,82,0.15), rgba(231,60,126,0.15), rgba(35,166,213,0.15), rgba(35,213,171,0.15)), url(../images/city-min-dark.jpeg);
-  background-image: linear-gradient(rgba(65, 77, 89, 0.617), rgba(55, 65, 73, 0.68)), url(../images/photo-1605876516612-a04e21021ead.webp);
+  background-image: linear-gradient(rgba(46, 61, 74, 0.719), rgba(46, 64, 79, 0.751)), url(../images/beach-landscape.jpg);
 }
 
 .nav{
@@ -92,13 +92,13 @@ p, li {
   background-color: rgb(215, 213, 201);
   width: 100%;
   border-radius: 24px;
+  height:450px;
 }
 
 #auto-change-image {
-  height:500px;
   width:100%;
   object-fit:cover;
-  margin-top: 1.2rem;
+  margin-top: 1.8rem;
 }
 
 footer {
@@ -107,11 +107,11 @@ footer {
 
 .material-icons {
   vertical-align: middle;
-  margin-bottom: 3px;
+  margin-bottom: 5px;
 }
 
 .nav-link .material-icons {
-  vertical-align: middle;
+  margin-bottom: 3px;
 }
 
 select {
@@ -141,8 +141,8 @@ select {
     margin-right: 1.5vh;
   }
 
-  #auto-change-image {
-    height: 350px;
+  .img {
+    height: 320px;
   }
 
   header.page-header > h1{

@@ -1,13 +1,18 @@
 #### <a href="/">< About Me  </a>  
 
-## Education
+
+<h2><i class="material-icons notranslate" style="font-size: 1em;">school</i> Education </h2>
+
 I am currently a student at the University of Washington in Seattle, where I am pursuing a Bachelor of Science in Informatics: Data Science. I expect to graduate in June 2023. 
 
 My relevant coursework includes Advanced Methods in Data Science, Databases and Data Modeling, Client-Side Development, Interactive Information Visualization, Information Ethics and Society, Elements Of Statistical Methods, and Interactive Information Visualization.	
 
 In addition to my studies at the University of Washington, I have also attended summer session at Duke University, and took the Mathematics of the Universe course.
 
-## Skills
+<img class="img" id="auto-change-image" alt="images"
+      src="{{ site.baseurl }}/assets/images/unsplash-uw.jpeg">
+
+<h2><i class="material-icons notranslate" style="font-size: 1em;">history_edu</i> Skills </h2>
 
 **Data Science and Analytics:** I have experience working with data science and analytics tools and techniques, and am proficient in using them to extract insights from data. I have employed Python and R in various ways, such as data preprocessing, exploratory data analysis, and data visualization.
 
@@ -18,15 +23,25 @@ In addition to my studies at the University of Washington, I have also attended 
 **System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands, such as bash, Shell script, and more. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems. 
 
 <img class="img" id="auto-change-image" alt="images"
-      src="{{ site.baseurl }}/assets/images/slides/photo-1496096265110-f83ad7f96608.png">
+      src="{{ site.baseurl }}/assets/images/unsplash-htop.jpeg">
 
-## Interests
+<h2><i class="material-icons notranslate" style="font-size: 1em;">interests</i> Interests </h2>
+
 I am tech-savvy, with a strong interest in staying up-to-date with the latest developments in the field. I am a hands-on learner, with a proven ability to quickly acquire new skills and apply them in a practical setting. I am also open-minded, and willing to learn, which allows me to approach problems from multiple angles and find innovative solutions. 
 
 I also have a personal interest in computer hardware and building computers. I have a strong curiosity about how computer systems work and enjoy learning about the latest technologies and components. This personal interest has allowed me to gain a deeper understanding of technology and has helped me develop hands-on skills in computer hardware and software.
 
-## Languages
+I also love traveling and exploring new places. I have traveled to a lot of countries. I enjoy learning about different cultures and experiencing new things.
+
+<img class="img" id="auto-change-image" alt="images"
+      src="{{ site.baseurl }}/assets/images/ships.jpg">
+
+<h2><i class="material-icons notranslate" style="font-size: 1em;">translate</i> Languages </h2>
+
 In addition to my technical skills, I am also proficient in several languages, including English, Chinese, and Japanese. This allows me to communicate and work with people from a variety of backgrounds and cultures.
+
+<img class="img" id="auto-change-image" alt="images"
+      src="{{ site.baseurl }}/assets/images/hilo.jpg">
 
 <br>
 {% include navigation-bar.html %}
