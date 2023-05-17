@@ -29,9 +29,9 @@ I will be attending Cornell University in August 2023 to pursue a Master's degre
 
 **UI/UX Design:** I have extensive experience in UI/UX design, having worked with Figma combined with other tools to build intuitive and visually appealing digital experiences. 
 
-<a href="Web Form Redesign of CA Voter Registration Form- Haochen Hu.pdf" target="_blank">
+<a href="web-form-redesign">
 <i class="material-icons notranslate">picture_as_pdf</i>
-View My Web Form Redesign (Wireframe) of CA Voter Registration Form</a>
+View My Web Form Redesign (Wireframe) of California Voter Registration Form >
 </a>
 
 <img class="img" id="auto-change-image" alt="images"
