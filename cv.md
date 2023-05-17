@@ -27,6 +27,13 @@ I will be attending Cornell University in August 2023 to pursue a Master's degre
 
 **System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands, such as bash, Shell script, and more. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems.
 
+**UI/UX Design:** I have extensive experience in UI/UX design, having worked with Figma combined with other tools to build intuitive and visually appealing digital experiences. 
+
+<a href="Web Form Redesign of CA Voter Registration Form- Haochen Hu.pdf" target="_blank">
+<i class="material-icons notranslate">picture_as_pdf</i>
+View My Web Form Redesign (Wireframe) of CA Voter Registration Form</a>
+</a>
+
 <img class="img" id="auto-change-image" alt="images"
       src="{{ site.baseurl }}/assets/images/unsplash-htop.jpeg">
 
