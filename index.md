@@ -1,11 +1,7 @@
 
 
 ## About Me
-I am <span class="notranslate">Haochen Hu</span>, a student at the University of Washington's Information School. I am currently majoring in informatics with a focus on data science. My coursework has allowed me to learn in data science, machine learning, data modeling, UX design, and web development, as well as system operation and maintenance. These fields have enabled me to leverage my passion for information technology and apply my problem-solving skills, providing me with the opportunity to explore a wide range of challenging projects.
-
-I have gained experience working with a variety of data science and machine learning techniques, and have developed a strong understanding of ways to extract insights from data and build predictive models. I have also had the opportunity to work on UI/UX design and web development projects, where I have honed my skills in user-centered design and front-end development.
-
-I am excited to continue learning and growing in these fields, and am eager to apply my skills and knowledge to real-world problems. With my passion for technology and devotion to continuous learning, I am confident in my ability to make a valuable contribution to any team or organization. I am actively seeking job opportunities where I can apply my skills and thrive in a challenging professional environment.
+I am <span class="notranslate">Haochen Hu</span>, a student at the University of Washington's Information School, specializing in informatics with a focus on data science. Through my coursework, I have gained expertise in data science, machine learning, data modeling, UI/UX design, web development, and system operation. I am passionate about leveraging information technology and problem-solving skills to tackle challenging projects. With experience in data science and machine learning techniques, I excel at extracting insights from data and building predictive models. Additionally, my proficiency in UI/UX design and web development allows me to create user-centered designs and develop front-end solutions. I am eager to continue learning and applying my skills to real-world problems.
 
 <a href="/cv">
 <i class="material-icons notranslate">contact_page</i> 

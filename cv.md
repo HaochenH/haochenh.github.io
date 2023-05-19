@@ -23,16 +23,21 @@ I will be attending Cornell University in August 2023 to pursue a Master's degre
 
 **Machine Learning:** I am proficient in Python, and I have a strong understanding of machine learning concepts and algorithms with Python, and have experience applying these techniques to a variety of real-world problems, including spam prediction, and image classification.
 
-**Web Development:** I am proficient in a range of web development technologies, including HTML, CSS, JavaScript, and have experience building web applications and websites. I built a web application, Help Beat Hunger, for my final project in the Client-Side Development course, which allowed me to start applying my knowledge of web development to a real-world problem. During the capstone course of University of Washington, I undertook another project named "dService", where I continued to expand my web development capabilities. This project allowed me to further refine my skills and gain hands-on experience in designing and implementing a web-based solution. Through the development of this project, I not only expanded my web development capabilities but also gained a deeper understanding of the data science domain.
+**Web Development:** I am proficient in a range of web development technologies, including HTML, CSS, JavaScript, and have experience building web applications and websites. During the University of Washington's capstone course, I undertook a project called "dService," which aims to provide detailed information and personalized insights on over 50 US-based data science master's programs, and where I continued to expand my web development and data curation skills. This project allowed me to further refine my skills and gain hands-on experience in designing and implementing a web-based solution.
 
-**System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands, such as bash, Shell script, and more. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems.
+<a href="https://dservice.haochenhu.me" target="_blank">
+<i class="material-icons notranslate">link</i>
+dService Project >
+</a>
 
 **UI/UX Design:** I have extensive experience in UI/UX design, having worked with Figma combined with other tools to build intuitive and visually appealing digital experiences. 
 
 <a href="web-form-redesign">
-<i class="material-icons notranslate">picture_as_pdf</i>
-View My Web Form Redesign (Wireframe) of California Voter Registration Form >
+<i class="material-icons notranslate">link</i>
+Redesigned Wireframe of California Voter Registration Form >
 </a>
+
+**System Maintenance and Operation:** I have prior experience with system maintenance and operation, which includes troubleshooting, diagnosing, and resolving technical issues, as well as ensuring that systems run smoothly. I am well-versed in a variety of operating systems, including Windows, macOS, knowledge of various Linux distributions and hands-on experience with different Linux tools and commands, such as bash, Shell script, and more. I have worked with a wide range of hardware and software technologies, allowing me to effectively maintain and manage systems.
 
 <img class="img" id="auto-change-image" alt="images"
       src="{{ site.baseurl }}/assets/images/unsplash-htop.jpeg">
