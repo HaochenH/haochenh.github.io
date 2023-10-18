@@ -18,7 +18,7 @@ View My Curriculum Vitae >
 GitHub >
 </a>
 
-<a class="email" href="mailto:haochh@yahoo.com">
+<a class="email" href="mailto:haochen-hu@outlook.com">
 <i class="material-icons notranslate">mail</i> 
 Email Me >
 </a>
