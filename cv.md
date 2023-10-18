@@ -38,11 +38,9 @@ Redesigned Wireframe of California Voter Registration Form >
 
 <h2><i class="material-icons notranslate" style="font-size: 1em;">interests</i> Interests </h2>
 
-I am tech-savvy, with a strong interest in staying up-to-date with the latest developments in the field. I am a hands-on learner, with a proven ability to quickly acquire new skills and apply them in a practical setting. I am also open-minded, and willing to learn, which allows me to approach problems from multiple angles and find innovative solutions.
+I am tech-savvy, with a strong interest in staying up-to-date with the latest developments in the field. I am a hands-on learner, with a proven ability to quickly acquire new skills and apply them in a practical setting. I also have a personal interest in computer hardware and building computers. I have a strong curiosity about how computer systems work and enjoy learning about the latest technologies and components. This personal interest has allowed me to gain a deeper understanding of technology and has helped me develop hands-on skills in computer hardware and software.
 
-I also have a personal interest in computer hardware and building computers. I have a strong curiosity about how computer systems work and enjoy learning about the latest technologies and components. This personal interest has allowed me to gain a deeper understanding of technology and has helped me develop hands-on skills in computer hardware and software.
-
-I also love traveling and exploring new places. I have traveled to a lot of countries. I enjoy learning about different cultures and experiencing new things.
+I also love traveling and exploring new places. I have traveled to a lot of countries. I enjoy learning about different cultures and experiencing new things!
 
 <img class="img" id="auto-change-image" alt="images"
       src="{{ site.baseurl }}/assets/images/ships.jpg">

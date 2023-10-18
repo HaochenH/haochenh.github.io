@@ -25,10 +25,10 @@ function triggerTranslation() {
     }
 }
 
-window.addEventListener("load", function () {
-    googleTranslateElementInit();
-    setTimeout(function () {
-        triggerTranslation();
-        triggerTranslation();
-    }, 1500);
-});
+// window.addEventListener("load", function () {
+//     googleTranslateElementInit();
+//     setTimeout(function () {
+//         triggerTranslation();
+//         triggerTranslation();
+//     }, 1500);
+// });
