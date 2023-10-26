@@ -1,7 +1,7 @@
 
 
 ## About Me
-I am <span class="notranslate">Haochen Hu</span>, a student at the Cornell University, specializing in informatics with a focus on data science and HCI. Through my coursework, I have gained expertise in data science, machine learning, data modeling, UI/UX design, web development, and system operation. I am passionate about leveraging information technology and problem-solving skills to tackle challenging projects. I am eager to continue learning and applying my skills to real-world problems.
+I am <span class="notranslate">Haochen Hu</span>, a student at the <a href="https://www.cornell.edu/">Cornell University</a>, specializing in <a href="https://infosci.cornell.edu/">Information Science</a> with a focus on data science and HCI. Through my coursework, I have gained expertise in data science, machine learning, data modeling, UI/UX design, web development, and system operation. I am passionate about leveraging information technology and problem-solving skills to tackle challenging projects. I am eager to continue learning and applying my skills to real-world problems.
 
 <a href="/cv">
 <i class="material-icons notranslate">contact_page</i> 
